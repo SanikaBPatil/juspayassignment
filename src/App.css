@@ -1,0 +1,22 @@
+/* App.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.workspace {
+  width: 500px;
+  height: 500px;
+  background-color: #f0f0f0;
+  border: 2px dashed #ccc;
+  position: relative;
+  margin: 20px auto;
+}
+
+.controls {
+  margin: 20px;
+}
+
+button {
+  margin: 5px;
+}
